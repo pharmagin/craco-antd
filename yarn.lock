@@ -2883,9 +2883,9 @@ coveralls@^3.0.2:
     minimist "^1.2.0"
     request "^2.86.0"
 
-"craco-less@git+ssh://git@github.com/pharmagin/craco-less.git":
+"craco-less@git+https://git@github.com/pharmagin/craco-less.git":
   version "1.16.0"
-  resolved "git+ssh://git@github.com/pharmagin/craco-less.git#eb46742cea67e66c73b381520489d92a91b2c9e0"
+  resolved "git+https://git@github.com/pharmagin/craco-less.git#76d56b299096a1920c463b51a3103edb35a31f91"
   dependencies:
     less "3.10.3"
     less-loader "^5.0.0"
